@@ -1,2 +1,1 @@
-Place skull_mask.mat in this directory.
-See the repository Readme.md for the data download link.
+The data download link "https://ieee-dataport.org/documents/dataset-transcranial-photoacoustic-imaging".
