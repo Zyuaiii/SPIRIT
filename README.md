@@ -88,6 +88,6 @@ Results are saved to `results/<experiment>/<run-id>/`:
 ```bibtex
 @misc{spirit,
   title  = {SPIRIT: Super-fast Photoacoustic Iterative Reconstruction in Transcranial Imaging},
-  author = {Zhang, Yu and Zhou, Yucheng and Li, Shuang and Wang, Yibing and Cui, Manxiu and Sastry, Karteekeya and Wang, Lihong V. and Li, Changhui}
+  author = {Zhang, Yu and Zhou, Yucheng and Li, Shuang and Wang, Yibing and Cui, Manxiu and Wang, Lihong V. and Li, Changhui}
 }
 ```
