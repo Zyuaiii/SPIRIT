@@ -1,5 +1,4 @@
-# Versions were not recorded in the source notebook.
-# For timing reproduction, use the versions from the original experiment environment.
+
 numpy
 scipy
 torch
